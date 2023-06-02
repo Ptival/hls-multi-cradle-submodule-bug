@@ -1,0 +1,4 @@
+packages:
+    .
+    deps/submodule/deep-dep
+    deps/submodule/less-deep-dep
