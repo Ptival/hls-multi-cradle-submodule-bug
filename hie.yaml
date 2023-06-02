@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:toplevel"
+
+    - path: "deps/submodule/deep-dep/src"
+      component: "lib:deep-dep"
+
+    - path: "deps/submodule/less-deep-dep/src"
+      component: "lib:less-deep-dep"
