@@ -20,7 +20,7 @@ library
     -- other-modules:
     -- other-extensions:
     build-depends:
-        base ^>=4.16.4.0,
+        base,
         deep-dep,
         less-deep-dep,
     hs-source-dirs:   src
